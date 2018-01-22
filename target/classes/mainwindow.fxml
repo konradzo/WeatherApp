@@ -2,6 +2,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.control.Label?>
+
 <HBox spacing="10" xmlns:fx="http://javafx.com/fxml" fx:controller="com.kz.controller.MainController">
     <ImageView fx:id="image" fitHeight="100" fitWidth="100">
         <image>
